@@ -8,7 +8,7 @@ public class HomeController {
     @RequestMapping("/contact")
     public String index(){
         System.out.println("Hello world");
-        return "feature change for PR";
+        return "another user made changes";
     }
 
 @RequestMapping("/contact")
